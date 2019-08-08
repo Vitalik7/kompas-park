@@ -5,19 +5,29 @@ body {
   background-size: cover;
 }
 
+p, h1, h3 {
+  color: whitesmoke;
+}
+
+img {
+  padding: 5px;
+}
+
 .container {
   flex-direction: row;
   flex-wrap: wrap;
 }
 
 .left {
+  padding: 5px;
   float: left;
   text-align: center;
-  width: 50%;
+  width: 48%;
 }
 
 .right {
-  width: 50%;
+  padding: 5px;
+  width: 48%;
   float: left;
   text-align: center;
 }
@@ -25,5 +35,35 @@ body {
 .row {
   flex-direction: row;
   flex-wrap: wrap;
+}
+
+.foto {
+  width: 300px;
+  height: 200px;
+}
+
+.rowDiv {
+  flex-direction: 'row';
+  align-items: center;
+  width: 100%;
+}
+
+.rowText {
+  width: auto;
+}
+
+.block {
+  display: inline;
+}
+
+.contentBlock {
+  // border: 1px solid gray;
+}
+
+
+@media screen and (max-width: 680px) {
+  .left, .right {
+    width: 100%;
+  }
 }
 
