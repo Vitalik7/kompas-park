@@ -13,7 +13,7 @@ const images = {
 }
 
 const App = () => {
-  const videos = ['https://youtu.be/lzd1ejCVAPQ', 'https://youtu.be/6zzfSINrRF4', 'https://youtu.be/W3U9Fg5tndA', 'https://youtu.be/ST3Hygf3G44']
+  const videos = ['https://youtu.be/lzd1ejCVAPQ', 'https://youtu.be/6zzfSINrRF4', 'https://youtu.be/W3U9Fg5tndA', 'https://youtu.be/ST3Hygf3G44', 'https://youtu.be/qZ6xl_OAIE8']
   const [states, setStates] = useState({
     first: false,
     second: false,
