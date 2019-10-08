@@ -23,6 +23,7 @@ const images = {
   building8: require('../assets/images/Building8.jpg'),
   batteries: require('../assets/images/Solarbatteries.jpg'),
   building9: require('../assets/images/cond.jpg'),
+  land1: require('../assets/images/img.jpeg'),
   
   // twitter: require('../../../assets/images/twIcon.png')
 }
@@ -163,6 +164,7 @@ const App = () => {
                   <div>
                     <img className='foto' src={images.landscaping1} />
                     <img className='foto' src={images.landscaping2} />
+                    <img className='foto' src={images.land1} />
                   </div>
                   : null
 
