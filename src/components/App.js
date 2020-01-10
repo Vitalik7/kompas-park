@@ -24,6 +24,7 @@ const images = {
   batteries: require('../assets/images/Solarbatteries.jpg'),
   building9: require('../assets/images/cond.jpg'),
   land1: require('../assets/images/img.jpeg'),
+  roof: require('../assets/images/roof.jpeg'),
   
   // twitter: require('../../../assets/images/twIcon.png')
 }
@@ -132,6 +133,11 @@ const App = () => {
                     <div className='block'>
                       <img className='foto' src={images.building9} />
                       <p className='rowText'>Room air conditioners</p>
+                    </div>
+                
+                    <div className='block'>
+                      <img className='foto' src={images.roof} />
+                      <p className='rowText'>A room for arena place</p>
                     </div>
                   </div>
                 </div>
