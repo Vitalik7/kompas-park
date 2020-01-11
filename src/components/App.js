@@ -24,7 +24,7 @@ const images = {
   batteries: require('../assets/images/Solarbatteries.jpg'),
   building9: require('../assets/images/cond.jpg'),
   land1: require('../assets/images/img.jpeg'),
-  roof: require('../assets/images/roof.jpeg'),
+  roof: require('../assets/images/roof.jpg'),
   
   // twitter: require('../../../assets/images/twIcon.png')
 }
