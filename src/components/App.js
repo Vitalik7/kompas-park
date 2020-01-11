@@ -137,7 +137,7 @@ const App = () => {
                 
                     <div className='block'>
                       <img className='foto' src={images.roof} />
-                      <p className='rowText'>A room for arena place</p>
+                      <p className='rowText'>A roof for arena place</p>
                     </div>
                   </div>
                 </div>
