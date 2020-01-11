@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.2be83cb9.css",
   "main.css.map": "static/css/main.2be83cb9.css.map",
-  "main.js": "static/js/main.149da606.js",
-  "main.js.map": "static/js/main.149da606.js.map",
+  "main.js": "static/js/main.c8c8fe8e.js",
+  "main.js.map": "static/js/main.c8c8fe8e.js.map",
   "static/media/Building3.jpg": "static/media/Building3.6ae79bd2.jpg",
   "static/media/Building5.jpg": "static/media/Building5.298ccd91.jpg",
   "static/media/Building6.jpg": "static/media/Building6.16b1745c.jpg",
@@ -24,5 +24,6 @@
   "static/media/foot.jpg": "static/media/foot.693d520b.jpg",
   "static/media/img.jpeg": "static/media/img.f24cb622.jpeg",
   "static/media/lotka.jpg": "static/media/lotka.e945010d.jpg",
+  "static/media/roof.jpg": "static/media/roof.1801170f.jpg",
   "static/media/vol.jpg": "static/media/vol.9cce7fbd.jpg"
 }
